@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "37603519345",
+    "project_id": "acquired-camp-144113"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37603519345:android:aae01a33e5489f95",
+        "android_client_info": {
+          "package_name": "com.example.warmachine.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37603519345-vvsrbgftf1nuf10ans9adr0q9bvtkf0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.warmachine.myapplication",
+            "certificate_hash": "C10D36C66DE73EFCF4FB76E7E3758B7ECA26D840"
+          }
+        },
+        {
+          "client_id": "37603519345-solcvchmr057fmurose683hedrsijidg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqCWyTiJXhhbh_v3LfA5gTWiAhBQNpiWo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

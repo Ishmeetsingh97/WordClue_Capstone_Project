@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_unit_options">
+        <item>@string/pref_lang_label_English</item>
+        <item>@string/pref_lang_label_Russian</item>
+        <item>@string/pref_lang_label_French</item>
+        <item>@string/pref_lang_label_Spanish</item>
+        <item>@string/pref_lang_label_German</item>
+    </string-array>
+
+    <string-array name="pref_unit_values">
+        <item>@string/pref_unit_English</item>
+        <item>@string/pref_unit_Russian</item>
+        <item>@string/pref_unit_French</item>
+        <item>@string/pref_unit_Spanish</item>
+        <item>@string/pref_unit_German</item>
+    </string-array>
+</resources>
