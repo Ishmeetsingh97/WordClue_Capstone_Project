@@ -10,7 +10,10 @@
     <string name="default_value">en-en</string>
     <string name="contdesc_speak">Speak word in text field</string>
     <string name="contdesc_input">Input word to the text field</string>
+    <string name="contdesc_signin">Sign in your Google Account</string>
+    <string name="contdesc_meaning">Meaning of the word</string>
     <string name="bullet">\u2022</string>
+    <string name="contdesc_logout">Logout out of your Google Account</string>
     <string name="NoResult">Result Not Found.</string>
 
 
